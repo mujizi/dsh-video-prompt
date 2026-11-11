@@ -13,12 +13,12 @@ jobs:
       - uses: actions/setup-node@v7
         with:
           node-version: "24"
-      - name: Import reviewed initial source archive
+      - name: Import reviewed public source archive
         id: initial
         shell: bash
         run: |
           if [ -f release-source.tgz ]; then
-            echo "e2dfc7797464e11be4e691b5595e1623441dd4b019c3eecab88c29483515224f  release-source.tgz" | sha256sum --check
+            echo "cd0589a73ea03133dea52739363ddc86788db10164b1a701aac1c441f35fa049  release-source.tgz" | sha256sum --check
             tar -xzf release-source.tgz
             rm release-source.tgz
             echo "imported=true" >> "$GITHUB_OUTPUT"
@@ -26,7 +26,7 @@ jobs:
       - run: npm ci --no-audit --no-fund
       - run: npm run build:data
       - run: npm test
-      - name: Commit verified public source and publish v0.3.1
+      - name: Commit verified public source and publish v0.3.2
         if: steps.initial.outputs.imported == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -35,7 +35,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Publish v0.3.1 with 80 verified MIT-licensed prompts"
+          git commit -m "Publish v0.3.2 with updated branding, README and screenshots"
           git push origin HEAD:main
           npm pack --ignore-scripts
-          gh release create v0.3.1 dsh-video-prompt-0.3.1.tgz --target "$(git rev-parse HEAD)" --title "生视频提示词库（cx版）v0.3.1" --notes-file CHANGELOG.md
+          gh release create v0.3.2 dsh-video-prompt-0.3.2.tgz --target "$(git rev-parse HEAD)" --title "生视频提示词库v0.3.2" --notes-file CHANGELOG.md
