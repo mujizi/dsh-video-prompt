@@ -1,8 +1,8 @@
 {
   "name": "dsh-video-prompt",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "private": false,
-  "description": "生视频提示词库（cx版）：80 条 MIT 许可中文 Wan3 提示词，支持交互图谱、时间线、题材检索和来源引用。",
+  "description": "整理 Seedance 2.5 和 Wan3 的中文视频提示词，用图谱、时间线和 Wiki 找灵感，也可以直接让 AI 按需求查参考。",
   "type": "module",
   "exports": {
     ".": "./lib/index.js",
@@ -25,7 +25,9 @@
     "THIRD_PARTY_NOTICES.md",
     "licenses",
     "docs/LICENSE_AUDIT.md",
-    "docs/verified-entries.json"
+    "docs/verified-entries.json",
+    "docs/images",
+    "docs/marketplace.md"
   ],
   "engines": {
     "node": ">=24.9",
@@ -62,7 +64,7 @@
     "type": "git",
     "url": "https://github.com/mujizi/dsh-video-prompt.git"
   },
-  "homepage": "https://github.com/mujizi/dsh-video-prompt#readme",
+  "homepage": "https://github.com/mujizi/dsh-video-prompt/blob/main/docs/marketplace.md",
   "bugs": {
     "url": "https://github.com/mujizi/dsh-video-prompt/issues"
   },
@@ -72,6 +74,7 @@
     "video-prompts",
     "wan3",
     "chinese",
-    "knowledge-graph"
+    "knowledge-graph",
+    "seedance"
   ]
 }

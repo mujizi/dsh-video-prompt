@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "生视频提示词库（cx版）",
-    "description": "80 条 MIT 许可的原创中文 Wan3 提示词：图谱、时间线、题材检索与来源引用。"
+    "title": "生视频提示词库",
+    "description": "整理 Seedance 2.5 和 Wan3 的中文视频提示词，用图谱、时间线和 Wiki 找灵感，也可以直接让 AI 按需求查参考。"
   }
 }

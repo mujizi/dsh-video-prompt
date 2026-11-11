@@ -157,7 +157,7 @@ window.__ModuleLoader__.load({
       const shared = { filters, refresh, onOpen: setDetail }
       return h('div', { className: 'vp-root' }, h('style', null, css),
         h('header', { className: 'vp-header', 'data-window-drag': '' },
-          h('div', null, h('h1', null, '生视频提示词库（cx版）'), h('p', { className: 'vp-sub' }, '从题材出发，找到可以借鉴的镜头与叙事。'),
+          h('div', null, h('h1', null, '生视频提示词库'), h('p', { className: 'vp-sub' }, '从题材出发，找到可以借鉴的镜头与叙事。'),
             data && h('div', null, h('span', { className: 'vp-pill' }, `${data.total} 条参考`), h('span', { className: 'vp-pill' }, `${data.mediaCounts?.video || 0} 视频 · ${data.mediaCounts?.image || 0} 图片`), h('span', { className: 'vp-language-count' }, `中文正文 ${data.translated}/${data.total}`))),
           h('div', { className: 'vp-header-actions' }, h('span', { className: 'vp-sub' }, '本地语料'), h('button', { className: 'vp-btn', onClick: () => setRefresh(n => n + 1) }, '刷新'), h('button', { className: 'vp-btn', onClick: () => ctx.layout.selectPanel(null) }, '返回对话'))),
         h('div', { className: 'vp-tabs', role: 'tablist', 'aria-label': '提示词库视图' }, [['graph', '图谱'], ['timeline', '时间线'], ['wiki', 'Wiki']].map(([id, label]) => h('button', { key: id, className: 'vp-tab', role: 'tab', 'aria-selected': tab === id, onClick: () => setTab(id) }, label)), h('span', { className: 'vp-sub' }, 'dsh-video-prompt')),
@@ -185,7 +185,7 @@ window.__ModuleLoader__.load({
       inject: ['slots', 'layout'],
       apply(ctx) {
         ctx.slots.inject('main', () => ctx.slots.register({ name: 'main', key: PANEL }, () => h(Library, { ctx })))
-        ctx.slots.inject('sidebar.panellist', () => ctx.slots.register({ name: 'sidebar.panellist', id: PANEL, order: 18, label: '生视频提示词库（cx版）' }, Icon))
+        ctx.slots.inject('sidebar.panellist', () => ctx.slots.register({ name: 'sidebar.panellist', id: PANEL, order: 18, label: '生视频提示词库' }, Icon))
       },
     }
   },
