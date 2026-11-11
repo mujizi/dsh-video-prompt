@@ -1,0 +1,36 @@
+{
+  "count": 80,
+  "models": {
+    "Wan 3.0": 80
+  },
+  "inputs": {
+    "flaq_mit.csv": "c057ad2950065e333906bbd748aa4ba9c8190d45522d317c5d7bf273edb327a2"
+  },
+  "exclusions": [],
+  "input_counts": {
+    "flaq_mit.csv": 80
+  },
+  "families": {
+    "Wan3": 80
+  },
+  "media": {
+    "video": 80
+  },
+  "classification": "deterministic-topic-rules",
+  "translation": {
+    "source-chinese": 35,
+    "codex-translated": 45
+  },
+  "datasets": [
+    {
+      "file": "flaq_mit.csv",
+      "family": "Wan3",
+      "kind": "licensed-public",
+      "license": "MIT",
+      "license_url": "https://github.com/flaqai/awesome_wan-3-0-prompts/blob/bf264109c3d714a6f1e5e164eff89fe8b2ced6ab/LICENSE",
+      "upstream_repository": "https://github.com/flaqai/awesome_wan-3-0-prompts",
+      "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab"
+    }
+  ],
+  "distribution": "licensed-public"
+}

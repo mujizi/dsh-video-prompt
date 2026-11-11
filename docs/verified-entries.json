@@ -1,0 +1,562 @@
+[
+  {
+    "id": "flaq-action-sports-01",
+    "upstream_path": "prompts/action-sports.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "d27190ddba1854446d58965408cdd5a6e5d628bf95bd53a3e3551020dd5edf7b",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-action-sports-02",
+    "upstream_path": "prompts/action-sports.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "da56fb89f42641f12b1c8333fb5732d5b91830548bf21937fd25ca492d4fd35a",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-action-sports-03",
+    "upstream_path": "prompts/action-sports.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "56ae37543fb3ae06f6e8ef12148dbeb501ae5f6874a3d9ce68ddf96c3e1ded0f",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-action-sports-04",
+    "upstream_path": "prompts/action-sports.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "57fe5d0cd9eebc67f3103aa2b71dffed5ed81947572e3462bc34d2a2f6833e91",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-action-sports-05",
+    "upstream_path": "prompts/action-sports.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "5d08066fe604afd14d1e4a2c21d5d36cf70cdf36b7be711fdfaa0471c01a4d49",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-action-sports-06",
+    "upstream_path": "prompts/action-sports.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "94220720d301c9eee7be424e59c194faab12d393f51f0ef49ea4614d2929ed6d",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-ads-and-products-01",
+    "upstream_path": "prompts/ads-and-products.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "6d947d8a717480021db94deb14afcb0911c78b26ab336bea1ff3c93c84d7572a",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-ads-and-products-02",
+    "upstream_path": "prompts/ads-and-products.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "6042b172e2e07404232edfd7de1033401c8b9e115b054ada9392b443a3206567",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-ads-and-products-03",
+    "upstream_path": "prompts/ads-and-products.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "ae8d0db52e177dfb0a826fcb8abb9e0e7899f1ac4f6359b4a1b8ef8816a82827",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-ads-and-products-04",
+    "upstream_path": "prompts/ads-and-products.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "58b3b0a240a9f7dc06dee7b01344f9d01df8e4e2be5ea70451f7c2e2f06ff2d3",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-ads-and-products-05",
+    "upstream_path": "prompts/ads-and-products.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "07a06d3dd6d27159870f32ff6c996115c5e52da73c1d95f97949d42d79aa2c46",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-ads-and-products-06",
+    "upstream_path": "prompts/ads-and-products.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "9d162b20bb8461e164024e12ee4ac5f7549bf8758a7f640c862ce0d18126ed34",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-anime-fantasy-01",
+    "upstream_path": "prompts/anime-fantasy.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "c93a92edc570e9ccb6f00bd35bdeba30a59ea87c2b1a4c9ae160f67eca20dca4",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-anime-fantasy-02",
+    "upstream_path": "prompts/anime-fantasy.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "458334728376bcf674cdfc77ed3eefb7aa99e1c1e8790e50be9fe8796e8c17a0",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-anime-fantasy-03",
+    "upstream_path": "prompts/anime-fantasy.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "cfbd1688799e3dc8404cffd364ec5f5462361d9047162e6c6aa23661d8f56352",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-anime-fantasy-04",
+    "upstream_path": "prompts/anime-fantasy.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "b695b07d79846d7389d23b3819a07fae90ad911d7a5e7e84e67b3e04fb17a343",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-anime-fantasy-05",
+    "upstream_path": "prompts/anime-fantasy.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "7472c4b52880554f08c08f7c14f6d9c0cec5a2f89f61b98850322e439214a39e",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-anime-fantasy-06",
+    "upstream_path": "prompts/anime-fantasy.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "486687c43e99a2bec8498113e9ede4f69c3422be354f0f39c82c257d59e63671",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-architecture-mobility-01",
+    "upstream_path": "prompts/architecture-mobility.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "c60bb65357ab7cf64a37f6f354df1ce248d84934ed136ce7fbc34ac53c69dd99",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-architecture-mobility-02",
+    "upstream_path": "prompts/architecture-mobility.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "32792b62ed20f644af658cc62a212b482f9834ef08e2e39fa339f8e42406e452",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-architecture-mobility-03",
+    "upstream_path": "prompts/architecture-mobility.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "bf72ec200953d007d24dd6ce3be2ea58c2cbfbd9032112ca97e4b71706395a4f",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-architecture-mobility-04",
+    "upstream_path": "prompts/architecture-mobility.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "94ec6065e237cc933be49f5c2a75d0a30b780405e202b3ffabd0059b82e6abdf",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-architecture-mobility-05",
+    "upstream_path": "prompts/architecture-mobility.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "1fbb3e2678edb6abcfca0acc40c8b6592f2f32f274e11c4afa50bb585321802e",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-architecture-mobility-06",
+    "upstream_path": "prompts/architecture-mobility.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "e87b4c793c7f914b01228f599cf3fed50c0a2e4435787c9dc4fcf46c48d80255",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-architecture-mobility-07",
+    "upstream_path": "prompts/architecture-mobility.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "24a24406bbbe18ca26e1e21755556542e6c02c8eba97e158757c79eb5d84ebbf",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-architecture-mobility-08",
+    "upstream_path": "prompts/architecture-mobility.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "f3ecb13985493e6ac706f80f327d32a1b8fc5f2600cc55362c704a79928c86b7",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-architecture-mobility-09",
+    "upstream_path": "prompts/architecture-mobility.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "cf69c1f49fab842dd688a199b950cbcab57a58666da448e651bd80bf12228171",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-architecture-mobility-10",
+    "upstream_path": "prompts/architecture-mobility.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "fbabbf16f9b71ce287fc784860d90b0fd0dffc99a44ca5a41693cb397c169a7d",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-architecture-mobility-11",
+    "upstream_path": "prompts/architecture-mobility.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "6fa96d25daea1887da69f7fbe85d20c4b9ba9323b5ae99e6ba04f3548a273636",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-cinematic-storytelling-01",
+    "upstream_path": "prompts/cinematic-storytelling.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "7f6aab058eeed74ca6ef9051262697121e30fef5a32b951f73aa2ead9d1c58e7",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-cinematic-storytelling-02",
+    "upstream_path": "prompts/cinematic-storytelling.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "ca56231c479fce025954494f97a330968a53589ce2264f4d9e95d0eb6db26d65",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-cinematic-storytelling-03",
+    "upstream_path": "prompts/cinematic-storytelling.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "23bbfd05bcc8d901227a3ac49ad87dad529f550fa6860b2b13ecc0026b70f9fa",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-cinematic-storytelling-04",
+    "upstream_path": "prompts/cinematic-storytelling.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "57f96182aeedc84137e10adb82bf2eef137a03a58fe6f0f2bc8269b56dcf2115",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-cinematic-storytelling-05",
+    "upstream_path": "prompts/cinematic-storytelling.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "e47e90893449cf601ec626d411267c927abfb4ab9f92c767be4a18b120219d00",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-cinematic-storytelling-06",
+    "upstream_path": "prompts/cinematic-storytelling.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "151fe0a373eaadb93417c71a51f474c3bec846a95f2aa1a52e8b4e8b5ca412e6",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-education-science-01",
+    "upstream_path": "prompts/education-science.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "a3f1d4366e35166c08afc40ce91412d093d77547c8a42ed0931585fd13f4cfce",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-education-science-02",
+    "upstream_path": "prompts/education-science.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "33f1e5e014904a6e45e948e0cc6db03dd97bed03edd6d94e51bac4dcdc62b72c",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-education-science-03",
+    "upstream_path": "prompts/education-science.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "4cfcc8dbb2cd00ef48505906d5abf63d8a5554b7df6edfa45cdebb0773163c8a",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-education-science-04",
+    "upstream_path": "prompts/education-science.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "bf6b0ee2857bf53392e14325b9926a1293bf5a97f1ffe6f19b102b5662879326",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-education-science-05",
+    "upstream_path": "prompts/education-science.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "69c54e934f962ce2e287a8ef0a1a8cadd7b19e28921a4dce69c6b46103943215",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-education-science-06",
+    "upstream_path": "prompts/education-science.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "cec0317f46452a58b008580795bbb47c5b6baa5ac6b4a63360c9295ba05b78a1",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-education-science-07",
+    "upstream_path": "prompts/education-science.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "e0821822768747c5564c55a40dc50fd6cb67b300da90199e7d7c89c373f43ebd",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-education-science-08",
+    "upstream_path": "prompts/education-science.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "421687fd40f8488a19f7cf096095cf3da2f7eed32cfc946e3a0e338a098f9cdb",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-education-science-09",
+    "upstream_path": "prompts/education-science.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "61895dc43cd593133465ca9d4a52412e6b5ac638601ef1009937994f1afe8fce",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-education-science-10",
+    "upstream_path": "prompts/education-science.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "017e9c24189c1c84eb10349c6940608661fd442c28edbd18be0dff340d2e1fb0",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-education-science-11",
+    "upstream_path": "prompts/education-science.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "3b26f74d59bb0fd0a5103a1b05c1b13470884b91fed6142a093fb2213c821fbb",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-music-comedy-social-01",
+    "upstream_path": "prompts/music-comedy-social.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "8a9bc73ba26c3a33ae9ff13f42f1acf7e68cb7360ce3ce9bd5c41683ec82f187",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-music-comedy-social-02",
+    "upstream_path": "prompts/music-comedy-social.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "36899b87f2e0c720732b0389147f347743efc80e8de2ef0c2420db92a736384f",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-music-comedy-social-03",
+    "upstream_path": "prompts/music-comedy-social.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "d79c26899b833079e086bdb92548bb24618f888e9e04b6b60baa367f2bd5020e",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-music-comedy-social-04",
+    "upstream_path": "prompts/music-comedy-social.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "76d5bd089139daf887534e9474ec8708d36d28a429499a8d0903de635212cc79",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-music-comedy-social-05",
+    "upstream_path": "prompts/music-comedy-social.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "3d2f78000403bf23b12e3c661078a08b0aab6ac1f12f1df5db1bdee854418992",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-music-comedy-social-06",
+    "upstream_path": "prompts/music-comedy-social.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "1f433e86eec316f2576e1b3465d9342597d006ae9a29f23eefbf43eef1aab584",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-production-control-01",
+    "upstream_path": "prompts/production-control.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "66690ef54ca32e66c37dd571eb881e96ad4c47913276f755a4264879c8dec44f",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-production-control-02",
+    "upstream_path": "prompts/production-control.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "e44a0491295fecee2b107323194e0439d88b7188a6387b2c1a1350b371b93244",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-production-control-03",
+    "upstream_path": "prompts/production-control.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "5b0ae678fe7d08e6614be2f55c7e41250b4248cd99ec15305069c926ff531abc",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-production-control-04",
+    "upstream_path": "prompts/production-control.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "32ddaa0d5d531fd6ec37f7549812809f70c11fc267f53aa0b6a2dfe21e233fab",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-production-control-05",
+    "upstream_path": "prompts/production-control.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "f862c4061937a9b41485a678d643ff2bee4f5c882a8b7fe6acd4c1985b25f465",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-production-control-06",
+    "upstream_path": "prompts/production-control.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "aeff6036117485d9f3ce060113dc45ffddb01ec7e94d68efea5083361790bfb4",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-production-control-07",
+    "upstream_path": "prompts/production-control.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "e53a1d453c52e2f3cf69ae6524c64c39365e41ffc915ea6a7b02bfaed4e411d4",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-production-control-08",
+    "upstream_path": "prompts/production-control.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "d6f31acebc1617e3f35c0a1554b419088dc497ff698172e5c41a97851a102364",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-production-control-09",
+    "upstream_path": "prompts/production-control.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "f33dc0b839b6eaed4a779329af79d96250e5600d09f8f29c90060d3a1d62f966",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-production-control-10",
+    "upstream_path": "prompts/production-control.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "e3c45c09adeb8d1ea563d4be4fdf80113eb43685e321603f37f99176c36845e0",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-production-control-11",
+    "upstream_path": "prompts/production-control.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "048c1798d55f0f44cff84ba5194bbf65513ccbda8663478e12707d3c3b9c249a",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-professional-business-01",
+    "upstream_path": "prompts/professional-business.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "1fceb23cd811761c35585bccb1e94ca0b996757d91b32c4d4c580b018c6aedf2",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-professional-business-02",
+    "upstream_path": "prompts/professional-business.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "edfa76bcf3a5c940d10a6d25a9c64b426a299d59f693a2050716a83fcac4f6c9",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-professional-business-03",
+    "upstream_path": "prompts/professional-business.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "63a62884525cdfc3e9afb8b85f1a1d820219b2937d90d50424fc323c006ee93f",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-professional-business-04",
+    "upstream_path": "prompts/professional-business.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "ecb93cc18c148023e028c65ba69b260a5b45fe4ffb8cda2c1bf49e27ef699ebe",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-professional-business-05",
+    "upstream_path": "prompts/professional-business.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "d32f804986b0cfa553adcbbb5e7a3afbe323d6e460960d584678d6b254abae6f",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-professional-business-06",
+    "upstream_path": "prompts/professional-business.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "9b3bed78066f1ece71348d1e45ce307d7200a5b0a70f4dfa4446be17f1f71737",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-professional-business-07",
+    "upstream_path": "prompts/professional-business.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "efa54b15e13108a5f227c22c12ddc706d3715d9081f77dfc88e05c11ddbc236d",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-professional-business-08",
+    "upstream_path": "prompts/professional-business.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "612d59fbd303a4dd2c3e7d119e30f1e0128bd957a31bda18d04da631f6f14f7e",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-professional-business-09",
+    "upstream_path": "prompts/professional-business.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "0dfcc6338296ab6a5a2dce04e8eec42970f80d0d9b6dc151e8be7f6b1c307a32",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-professional-business-10",
+    "upstream_path": "prompts/professional-business.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "cbcff088887b0b89350da1df0e866c552081c6c74b43fed430949b77a2e2e02a",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-professional-business-11",
+    "upstream_path": "prompts/professional-business.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "447e2ad803b18a44f787165deba6be4039917ad15a90e1cc1effc58839048c21",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-ugc-food-travel-01",
+    "upstream_path": "prompts/ugc-food-travel.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "79c5615aef634cf55c68247f73294f1b1cd1a0d6cf48dc2bb4483de11c8460b3",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-ugc-food-travel-02",
+    "upstream_path": "prompts/ugc-food-travel.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "fa3e0c65f748e562c7de7136db7a13696bb2dbb904871c9960bcb1dabb008173",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-ugc-food-travel-03",
+    "upstream_path": "prompts/ugc-food-travel.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "cdfa0208b61adcf90ba29fee45424bc3646722fa522334d2298e9476dfc35197",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-ugc-food-travel-04",
+    "upstream_path": "prompts/ugc-food-travel.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "2755c5effeb9c85709ed73de1fb3b343965152271eda34e6a11e94f07460f083",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-ugc-food-travel-05",
+    "upstream_path": "prompts/ugc-food-travel.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "71645a7d2562e861e4eddfee445d1110eab58637a036fa6fd1f6210a60a4cf0c",
+    "matches_upstream_ignoring_whitespace": true
+  },
+  {
+    "id": "flaq-ugc-food-travel-06",
+    "upstream_path": "prompts/ugc-food-travel.md",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab",
+    "prompt_sha256": "758e54a4754b3be6455b3556e2c21c0e6073f569c259bd502fdfc36d4ad9b8d1",
+    "matches_upstream_ignoring_whitespace": true
+  }
+]

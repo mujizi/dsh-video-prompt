@@ -1,0 +1,77 @@
+{
+  "name": "dsh-video-prompt",
+  "version": "0.3.1",
+  "private": false,
+  "description": "生视频提示词库（cx版）：80 条 MIT 许可中文 Wan3 提示词，支持交互图谱、时间线、题材检索和来源引用。",
+  "type": "module",
+  "exports": {
+    ".": "./lib/index.js",
+    "./client": "./client/index.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib",
+    "client/index.js",
+    "data",
+    "catalog",
+    "wiki",
+    "locale",
+    "icon.svg",
+    "cordis.patch.yml",
+    "README.md",
+    "LICENSE",
+    "THIRD_PARTY_NOTICES.md",
+    "licenses",
+    "docs/LICENSE_AUDIT.md",
+    "docs/verified-entries.json"
+  ],
+  "engines": {
+    "node": ">=24.9",
+    "dsh": "0.2.2-rc.1"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "immediately": true,
+      "inject": [
+        "@deepseek-ai/dsh-client-ui-layout",
+        "@deepseek-ai/dsh-client-ui-sidebar"
+      ]
+    }
+  },
+  "scripts": {
+    "build:data": "python3 scripts/build_catalog.py",
+    "test": "npm run build:client && node --test tests/*.test.js",
+    "build:client": "node scripts/build_client.mjs"
+  },
+  "devDependencies": {
+    "d3-force": "3.0.1",
+    "esbuild": "0.28.1"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "benqiwang",
+    "url": "https://github.com/mujizi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mujizi/dsh-video-prompt.git"
+  },
+  "homepage": "https://github.com/mujizi/dsh-video-prompt#readme",
+  "bugs": {
+    "url": "https://github.com/mujizi/dsh-video-prompt/issues"
+  },
+  "keywords": [
+    "dsh-plugin",
+    "deepseek-harness",
+    "video-prompts",
+    "wan3",
+    "chinese",
+    "knowledge-graph"
+  ]
+}

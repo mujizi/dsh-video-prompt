@@ -1,0 +1,11 @@
+[
+  {
+    "file": "flaq_mit.csv",
+    "family": "Wan3",
+    "kind": "licensed-public",
+    "license": "MIT",
+    "license_url": "https://github.com/flaqai/awesome_wan-3-0-prompts/blob/bf264109c3d714a6f1e5e164eff89fe8b2ced6ab/LICENSE",
+    "upstream_repository": "https://github.com/flaqai/awesome_wan-3-0-prompts",
+    "upstream_commit": "bf264109c3d714a6f1e5e164eff89fe8b2ced6ab"
+  }
+]

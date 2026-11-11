@@ -1,0 +1,162 @@
+{
+  "count": 80,
+  "tree": {
+    "人物与角色": {
+      "儿童萌娃": [],
+      "女性人物": [
+        "flaq-action-sports-05",
+        "flaq-cinematic-storytelling-01"
+      ],
+      "男性人物": [
+        "flaq-cinematic-storytelling-02"
+      ],
+      "职业角色": [
+        "flaq-professional-business-01",
+        "flaq-professional-business-02",
+        "flaq-professional-business-03",
+        "flaq-professional-business-04",
+        "flaq-professional-business-05",
+        "flaq-professional-business-06",
+        "flaq-professional-business-07",
+        "flaq-professional-business-08",
+        "flaq-professional-business-09",
+        "flaq-professional-business-10",
+        "flaq-professional-business-11"
+      ],
+      "群像与表演": [
+        "flaq-production-control-01",
+        "flaq-production-control-10"
+      ]
+    },
+    "剧情与动作": {
+      "动作对决": [
+        "flaq-anime-fantasy-04"
+      ],
+      "追逐逃亡": [
+        "flaq-action-sports-01"
+      ],
+      "悬疑恐怖": [
+        "flaq-cinematic-storytelling-03"
+      ],
+      "情感故事": [],
+      "喜剧反转": [
+        "flaq-music-comedy-social-01",
+        "flaq-music-comedy-social-02",
+        "flaq-music-comedy-social-03",
+        "flaq-music-comedy-social-05"
+      ]
+    },
+    "产品与广告": {
+      "美妆护肤": [],
+      "食品饮料": [
+        "flaq-ugc-food-travel-01",
+        "flaq-ugc-food-travel-03",
+        "flaq-ugc-food-travel-05",
+        "flaq-ugc-food-travel-06"
+      ],
+      "数码家电": [
+        "flaq-ads-and-products-01",
+        "flaq-ads-and-products-02",
+        "flaq-ads-and-products-03",
+        "flaq-ads-and-products-04",
+        "flaq-production-control-08"
+      ],
+      "服饰穿搭": [
+        "flaq-production-control-03",
+        "flaq-production-control-07"
+      ],
+      "电商带货": []
+    },
+    "动物与奇幻生物": {
+      "宠物": [
+        "flaq-music-comedy-social-04"
+      ],
+      "野生动物": [],
+      "飞鸟水族": [
+        "flaq-anime-fantasy-01",
+        "flaq-anime-fantasy-02"
+      ],
+      "奇幻生物": [
+        "flaq-anime-fantasy-06"
+      ]
+    },
+    "场景与风光": {
+      "自然风光": [],
+      "室内空间": [
+        "flaq-action-sports-03",
+        "flaq-action-sports-04",
+        "flaq-architecture-mobility-04",
+        "flaq-cinematic-storytelling-06",
+        "flaq-education-science-10",
+        "flaq-production-control-05"
+      ],
+      "城市建筑": [
+        "flaq-architecture-mobility-01",
+        "flaq-architecture-mobility-02",
+        "flaq-architecture-mobility-03",
+        "flaq-architecture-mobility-05",
+        "flaq-architecture-mobility-06",
+        "flaq-architecture-mobility-07",
+        "flaq-architecture-mobility-08",
+        "flaq-architecture-mobility-09",
+        "flaq-architecture-mobility-10",
+        "flaq-architecture-mobility-11",
+        "flaq-cinematic-storytelling-04",
+        "flaq-education-science-01",
+        "flaq-production-control-11"
+      ],
+      "未来科幻": [
+        "flaq-anime-fantasy-05",
+        "flaq-production-control-06"
+      ],
+      "旅行纪实": [
+        "flaq-education-science-02",
+        "flaq-ugc-food-travel-02",
+        "flaq-ugc-food-travel-04"
+      ]
+    },
+    "特效与转场": {
+      "变形特效": [
+        "flaq-ads-and-products-05",
+        "flaq-ads-and-products-06"
+      ],
+      "转场衔接": [
+        "flaq-production-control-04"
+      ],
+      "时间变化": [],
+      "超现实": [
+        "flaq-production-control-02"
+      ]
+    },
+    "实验与抽象": {
+      "抽象艺术": [],
+      "循环动画": [
+        "flaq-music-comedy-social-06",
+        "flaq-production-control-09"
+      ],
+      "科学演示": [
+        "flaq-education-science-03",
+        "flaq-education-science-04",
+        "flaq-education-science-05",
+        "flaq-education-science-06",
+        "flaq-education-science-07",
+        "flaq-education-science-08",
+        "flaq-education-science-09",
+        "flaq-education-science-11"
+      ],
+      "媒介实验": [
+        "flaq-action-sports-06",
+        "flaq-anime-fantasy-03"
+      ]
+    },
+    "其他": {
+      "待定题材": [
+        "flaq-action-sports-02",
+        "flaq-cinematic-storytelling-05"
+      ],
+      "参考驱动": [],
+      "制作约束": [],
+      "综合案例": []
+    }
+  }
+}
