@@ -1,0 +1,41 @@
+name: Verify public plugin
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "24"
+      - name: Import reviewed initial source archive
+        id: initial
+        shell: bash
+        run: |
+          if [ -f release-source.tgz ]; then
+            echo "e2dfc7797464e11be4e691b5595e1623441dd4b019c3eecab88c29483515224f  release-source.tgz" | sha256sum --check
+            tar -xzf release-source.tgz
+            rm release-source.tgz
+            echo "imported=true" >> "$GITHUB_OUTPUT"
+          fi
+      - run: npm ci --no-audit --no-fund
+      - run: npm run build:data
+      - run: npm test
+      - name: Commit verified public source and publish v0.3.1
+        if: steps.initial.outputs.imported == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Publish v0.3.1 with 80 verified MIT-licensed prompts"
+          git push origin HEAD:main
+          npm pack --ignore-scripts
+          gh release create v0.3.1 dsh-video-prompt-0.3.1.tgz --target "$(git rev-parse HEAD)" --title "生视频提示词库（cx版）v0.3.1" --notes-file CHANGELOG.md
