@@ -1,4 +1,6 @@
-# 生视频提示词库
+# dsh-生视频提示词库
+
+![dsh-video-prompt：角色使用电脑生成视频](docs/images/repository-cover.png)
 
 主要整理 X 上高质量的 **Seedance 2.5 和 Wan3 中文提示词**，把分散的参考变成可以浏览、检索、复制和追溯来源的 DeepSeek Harness 插件。
 
