@@ -1,4 +1,6 @@
-# 生视频提示词库
+# dsh-生视频提示词库
+
+![dsh-video-prompt：角色使用电脑生成视频](images/repository-cover.png)
 
 整理 Seedance 2.5 和 Wan3 的中文视频提示词，用图谱、时间线和 Wiki 找灵感，也可以直接让 AI 按需求查参考。
 
